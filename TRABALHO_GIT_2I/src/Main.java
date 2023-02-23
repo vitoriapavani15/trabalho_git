@@ -9,9 +9,6 @@ public class Main {
 		String a = t.nextLine();
 		System.out.println("Olá " + a);
 		System.out.println("Olá MUndo");
-<<<<<<< HEAD
 		System.out.println("Olá Dev!");
-=======
->>>>>>> refs/heads/funcionalidade
 	}
 }
